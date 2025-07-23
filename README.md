@@ -18,10 +18,6 @@ This project leverages Python to independently develop an automated ranking syst
 - **Official Account Upload:**  
   After thorough review, the finalized fund manager reports are formatted and uploaded to the company’s official WeChat public account, ensuring accuracy and consistency for external dissemination.
 
-## Workflow Diagram
-
-![image1](image1)
-
 ## Technologies Used
 
 - Python (Numpy, Pandas)
